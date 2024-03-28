@@ -7,7 +7,7 @@ location = "westus"
 
 tags = {
   "Environment" = "Lab"
-  "Owner"       = "<Owner>"
+  "Owner"       = "Aman Upadhyay"
 }
 
 vnet_name = "AzPipeLineVnet"
