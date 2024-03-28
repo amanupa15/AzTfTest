@@ -1,16 +1,16 @@
 
 # Deployment Config
 
-resourcegroup_name = "<ResourceGroup>"
+resourcegroup_name = "AzPipeLineRG"
 
-location = "<location>"
+location = "westus"
 
 tags = {
   "Environment" = "Lab"
   "Owner"       = "<Owner>"
 }
 
-vnet_name = "<VNet Name>"
+vnet_name = "AzPipeLineVnet"
 
 vnet_address_space = ["10.211.0.0/16"]
 
